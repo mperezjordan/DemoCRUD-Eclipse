@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/org/xemacscode/demo/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mpjma/.m2/repository/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" sourcepath="C:/Users/mpjma/.m2/repository/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.assertj"/>
+			<attribute name="maven.artifactId" value="assertj-core"/>
+			<attribute name="maven.version" value="3.11.1"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
